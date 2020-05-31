@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 May 2020 11:37:38 at http://www.newbird.co.kr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.newbird.co.kr/ -O1 "C:\Users\vnddn\Desktop\PORTFOFOFO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:37:38	Warning: 	Found for www.newbird.co.kr/robots.txt
+11:37:38	Warning: 	File has moved from www.newbird.co.kr/robots.txt to http://html.gethompy.com/404.html?id=newbird0412
+12:16:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 8685245 got 7630386): www.newbird.co.kr/nbadm/data/uploads/ae506473fe6b47c2b46dbcebaa4d5ab51589861161_65382.png
+12:35:26	Warning: 	Retry after error -4 (Incorrect length (7630386 Bytes, 8685245 expected)) at link www.newbird.co.kr/nbadm/data/uploads/ae506473fe6b47c2b46dbcebaa4d5ab51589861161_65382.png (from www.newbird.co.kr/portfolio/view.html?idx=98)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 23 minutes 19 seconds : 248 links scanned, 246 files written (124482589 bytes overall) [123925649 bytes received at 24790 bytes/sec], 915654 bytes transferred using HTTP compression in 55 files, ratio 30%, 1.6 requests per connection
+(No errors, 4 warnings, 0 messages)
